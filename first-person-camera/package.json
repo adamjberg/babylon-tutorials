@@ -12,7 +12,8 @@
     "serve": "webpack serve"
   },
   "dependencies": {
-    "@babylonjs/core": "^4.2.0"
+    "@babylonjs/core": "^4.2.0",
+    "cannon": "^0.6.2"
   },
   "devDependencies": {
     "@webpack-cli/generators": "^2.3.0",
